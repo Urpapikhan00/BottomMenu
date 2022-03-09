@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_dashboard"
+        android:icon="@drawable/ic_home"
+        android:title="Dashboard"/>
+    <item
+        android:id="@+id/ic_bitwallet"
+        android:icon="@drawable/bitwallet"
+        android:title="Wallet"/>
+    <item
+        android:id="@+id/ic_Profile"
+        android:icon="@drawable/ic_baseline_face_24"
+        android:title="Profile"/>
+</menu>
